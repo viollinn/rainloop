@@ -1,7 +1,7 @@
 FROM alpine:3.10
 
 LABEL description "Rainloop is a simple, modern & fast web-based client" \
-      maintainer="Hardware <contact@meshup.net>"
+      maintainer="viollinn <viollinn@kamehouse.ovh>"
 
 ARG GPG_FINGERPRINT="3B79 7ECE 694F 3B7B 70F3  11A4 ED7C 49D9 87DA 4591"
 
